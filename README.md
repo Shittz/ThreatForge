@@ -130,3 +130,15 @@ ThreatForge/
 ```
 
 The SQLite database is generated
+---
+
+## 📸 Project Screenshots
+
+### 1. Security Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Local Login Lab
+![Login Lab](screenshots/login%20lab.png)
+
+### 3. Security Reports
+![Reports](screenshots/reports.png)
